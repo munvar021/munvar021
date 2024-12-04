@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like Python, HTML, CSS, Bootstrap, JavaScript, MySQL, MongoDB, Node.js, Express.js and React JS.
 
 ## About Me
-- 💼 Full Stack Developer
+- 💼 Full Stack Web Developer
 - 🌱 Currently enhancing my skills in Python, HTML, CSS, Bootstrap, JavaScript, MySQL, MongoDB, Node.js, Express.js and React JS.
 - 🎓 Pursuing Bachelor's in Electronics and Communication Engineering
 
