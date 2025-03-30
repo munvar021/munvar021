@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer with a passion for 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munvar-khajavali-shaik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:munvar021@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=codeforces&logoColor=white)](https://portfolio-beta-eight-29.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white)](https://portfolio-beta-eight-29.vercel.app/)
 
 Feel free to explore my repository 😊!!
